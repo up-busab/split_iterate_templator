@@ -1,0 +1,6 @@
+[{ "property":[
+			   { "type":"String", "name":"foo" },
+			   { "type":"Integer", "name":"x" },
+			   { "type":"Something", "name":"aThing" }
+			 ]
+}]
